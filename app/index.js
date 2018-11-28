@@ -2,6 +2,7 @@
 
 const express = require('express');
 const bodyParser = require('body-parser');
+const alexa = require('./alexa.js');
 
 var app = express();
 
